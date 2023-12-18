@@ -1,6 +1,6 @@
 ### Hola, soy Alex Montalvo
 
-🚀 Desarrollador Apasionado | 🌐 Explorador del Código | 🎓 Estudiante de [Tu Carrera]
+🚀 Desarrollador Apasionado | 🌐 Explorador del Código | 🎓 Ingeniero en Software
 
 ¡Bienvenido a mi perfil! Soy un apasionado desarrollador con un amor especial por el desarrollo de software (Mi favorito el backend). Mi objetivo es crear soluciones innovadoras y contribuir al mundo del desarrollo de software.
 
