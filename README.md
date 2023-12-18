@@ -14,7 +14,7 @@
 - Herramientas: Intellij IDEA, Visual Studio Code, Microsoft Visual Studio, SQL Server, MySQL, PostgreSQL
 
 #### 📚 Educación
-- Grado de Ingenieria en Software en Universidad de las Fuerzas Armadas (ESPE) - Ecuador.
+- Grado de Ingeniería en Software en Universidad de las Fuerzas Armadas (ESPE) - Ecuador.
 
 #### 📫 ¡Conéctate conmigo!
 - LinkedIn: [Linkedin](https://www.linkedin.com/in/alex-montalvo-pacheco-b5ab56233/)
